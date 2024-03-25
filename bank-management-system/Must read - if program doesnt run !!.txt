@@ -1,0 +1,14 @@
+
+change the value of the variable name 'path' at the top of .py file , by pasting the path of the folder of the project !!
+
+
+
+
+
+
+
+
+
+
+
+its my 1st semester project , its the best I could do !
