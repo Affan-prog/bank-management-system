@@ -10,7 +10,7 @@ def intro():
     print()
     print("      Brought to you by :")
     print("          Muhammad Affan")
-    # print("          23FA-014-CS")
+    
     print()
     
     while(True):
