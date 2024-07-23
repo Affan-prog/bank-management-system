@@ -1,1 +1,0 @@
-{'Account Type': 'c', 'Name': 'Muhammad Affan Nafees', 'Date of Birth': '08-01-2006', 'Phone': '03308565769', 'Account Balance': 88500.0, 'Time Created': '03:37 , 01/14/24', 'PIN': 8080, 'IBAN': 1001001233, 'food': 'biryani'}
